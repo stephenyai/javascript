@@ -10,7 +10,7 @@ function reverseString(string) {
 }
 
 
-
+console.log('hi');
 console.log(reverseString('hello'));
 // console.log(reverseString('foo') == 'oof');
 // console.log(reverseString('foo') !== 'foo');
